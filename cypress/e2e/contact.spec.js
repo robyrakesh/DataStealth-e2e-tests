@@ -3,7 +3,7 @@
 import { landingPage, contactPage } from '../pages/index'
 import { userDetails } from '../fixtures/test_data'
 
-  describe('Validate Landing Page', function() {
+  describe('Validate Contact Us Page', function() {
     beforeEach(function()  {
       cy.visit('/')
       landingPage.navigateToContactUsPage()
