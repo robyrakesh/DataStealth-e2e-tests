@@ -7,6 +7,8 @@ e2e tests for DataStealth web app targeting the Contact Us and home page functio
 
 There are few jobs defined in the e2e.yml workflow, which will take care of creating a test report using allure and deploying it to the Github Page server. So, we have a publicliy available free test reporting dashboard which can be accessed by anyone. Link to the test report :- https://robyrakesh.github.io/DataStealth-e2e-tests/
 
+![Screenshot 2024-04-08 at 4 02 01 PM](https://github.com/robyrakesh/DataStealth-e2e-tests/assets/47828587/5a883435-9042-421d-8b53-a262dff895f4)
+
 
 ## Available Scripts
 
