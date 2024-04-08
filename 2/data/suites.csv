@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 08 19:41:12 GMT 2024","Mon Apr 08 19:41:13 GMT 2024","835","","Validate Landing Page","","","","Validate home page",""
+"passed","Mon Apr 08 19:41:00 GMT 2024","Mon Apr 08 19:41:06 GMT 2024","6350","","Validate Landing Page","","","","Validate Contact Us",""
